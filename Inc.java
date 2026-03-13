@@ -1,5 +1,5 @@
 class Inc{
-    public static void main(String[] args) {
+    public static void main(StringPra[] args) {
         /*int x=5,y;
         //x++;  output 6
         //++x;  ouput 6

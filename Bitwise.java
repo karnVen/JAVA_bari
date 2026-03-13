@@ -1,6 +1,6 @@
 import java.util.*;
 class Bitwise{
-    public static void main(String[] args) {
+    public static void main(StringPra[] args) {
         int x =10,y=6,a,b,c;
         //int x= 0b1010; 10 in byte
         //int y =0b0110;  6 in byte
@@ -13,6 +13,6 @@ class Bitwise{
         
 
         System.out.println(a +""+ b+""+c );
-        System.out.println(String.format("%32s",Integer.toBinaryString(x)));
+        System.out.println(StringPra.format("%32s",Integer.toBinaryString(x)));
     }
 }

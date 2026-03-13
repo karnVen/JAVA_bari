@@ -1,5 +1,5 @@
 class Mergemaskswap{
-    public static void main(String[] args) {
+    public static void main(StringPra[] args) {
      /*int a =10,b=15;
     a=a^b;
     b=a^b;

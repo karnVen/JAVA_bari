@@ -1,7 +1,7 @@
 
 public class Sandbox {
 
-    public static void main(String[] args) {
+    public static void main(StringPra[] args) {
        // Write your program here
        System.out.println("hi");
     }

@@ -1,5 +1,5 @@
 public class Arithmetic{
-    public static void main(String[] args) {
+    public static void main(StringPra[] args) {
         int a =14, b=5;
         int c = a/b;
         int r =a%b;
