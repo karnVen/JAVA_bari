@@ -1,0 +1,53 @@
+# Compiled class files
+*.class
+
+# JAR/WAR/EAR archives
+*.jar
+*.war
+*.ear
+
+# Build output directories
+bin/
+out/
+build/
+target/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# IDE - VS Code
+.vscode/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# Gradle
+.gradle/
+gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+*.env
